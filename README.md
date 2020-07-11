@@ -1,9 +1,9 @@
 ===============================
-
 Development Setup for OSX 
-
 ===============================
+
 Started with Assistance from the Repo by [striveforbest](https://github.com/StriveForBest/osx-dev-environment-setup) updated for July of 2020
+Also, adding more information with medium article from Vinicius De Antoni [How to Set Up Your Macbook for Web Development in 2020](https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883)
 
 
 Assumptions: 
