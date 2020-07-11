@@ -1,5 +1,7 @@
 ===============================
+
 Development Setup for OSX 
+
 ===============================
 Started with Assistance from the Repo by [striveforbest](https://github.com/StriveForBest/osx-dev-environment-setup) updated for July of 2020
 
@@ -26,7 +28,7 @@ Homebrew
 
 Install::
 
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    /bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     brew doctor
 
 You can use either `bash` or `zshell`, your choice.
